@@ -1,0 +1,13 @@
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.deps.json
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.runtimeconfig.json
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.runtimeconfig.dev.json
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.dll
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.pdb
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.csproj.CoreCompileInputs.cache
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.RazorAssemblyInfo.cache
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.RazorAssemblyInfo.cs
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.AssemblyInfoInputs.cache
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.AssemblyInfo.cs
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.dll
+C:\Users\amira\source\repos\StudentAPI\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.pdb
